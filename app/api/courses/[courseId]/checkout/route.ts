@@ -44,7 +44,7 @@ export async function POST(
       {
         quantity: 1,
         price_data: {
-          currency: "USD",
+          currency: "PKR",
           product_data: {
             name: course.title,
             description: course.description!,
